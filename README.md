@@ -89,18 +89,6 @@ I thrive in environments that demand **high ownership**, **rapid iteration**, an
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,postgres,mongodb,redis,mysql&theme=dark"/>
 </p>
 
-**Cloud, DevOps & Tooling**
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git,linux,nginx,terraform&theme=dark"/>
-</p>
-
-**AI / ML & Data**
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy&theme=dark"/>
-</p>
-
 <br/>
 
 ---
