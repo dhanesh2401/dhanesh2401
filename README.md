@@ -73,19 +73,19 @@ I thrive in environments that demand **high ownership**, **rapid iteration**, an
 
 **Languages**
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,c,go&theme=dark"/>
 </p>
 
 **Frontend**
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,vue&theme=dark"/>
 </p>
 
 **Backend & Databases**
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,postgres,mongodb,redis,mysql&theme=dark"/>
 </p>
 
