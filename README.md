@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.E-Electronics%20and%20Communication%20Engineering-2D1B69?style=for-the-badge&logo=googlescholar&logoColor=E9D5FF&labelColor=0F0524"/>
-<img src="https://img.shields.io/badge/CGPA-7.0%2F10-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=E9D5FF&labelColor=0F0524"/>
+<img src="https://img.shields.io/badge/CGPA-8.0%2F10-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=E9D5FF&labelColor=0F0524"/>
 <img src="https://img.shields.io/badge/Location-Cennai,Tamil%20Nadu,India-2D1B69?style=for-the-badge&logo=googlemaps&logoColor=E9D5FF&labelColor=0F0524"/>
 
 <br/><br/>
